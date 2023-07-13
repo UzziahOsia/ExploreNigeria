@@ -1,4 +1,4 @@
-# ExploreNigeria
+# ExploreNigeria Travel Project
 
 DEMO->
 
